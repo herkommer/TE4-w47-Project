@@ -63,3 +63,7 @@ Dvs en första fungerande version att visa upp för investerare och andra intres
 - Sätt upp egna GitHub Team Repon och bjud in mig
 - **PRODUKTÄGARE "PO"** finns tillgänglig för frågor, förtydliganden mm. Involvera honom gärna!
 - (Jag agerar PO för er i denna uppgift, ny slackkanal finns)
+
+#### Övrigt
+- Detta repo samlar all info från Winegoofs
+- Exempelvis kan det tillkomma mer önskemål och annat, så då hamnar det här
